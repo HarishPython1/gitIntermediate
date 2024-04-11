@@ -3,3 +3,4 @@ line added - second time changes
 line added - first change
 another line added
 line 3 - second time commit - add
+first file line added

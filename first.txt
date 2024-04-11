@@ -1,4 +1,4 @@
 This is first file
-line added
+line added - second time changes
 another line added
 line 3
